@@ -21,11 +21,26 @@ Trouver la fonction du langage Python permettant de faire la même chose.
 
 ## Exo 2: le dénicheur amélioré
 
-Dans le fichier **exo1.py**, tu dois écrire une fonction qui trouve à quelle place d'une liste se trouve un élément.
+Dans le fichier **exo2.py**, tu dois écrire une fonction qui trouve à quelle place d'une liste se trouve un élément.
 
 **ENTREE:** une liste, et un élément.
 **SORTIE:** si l'élément est dans la liste, un nombre qui représente sa place dans la liste (en partant de 0). Sinon, None.
 
 ### Bonus (facultatif)
+
+Trouver la fonction du langage Python permettant de faire la même chose.
+
+## Exo 3: le concaténateur
+
+Dans le fichier **exo3.py**, tu dois écrire une fonction qui concatène tous les éléments d'une liste.
+
+**ENTREE:** une liste.
+**SORTIE:** une chaîne de caractères qui dans laquelle tous les éléments de cette liste sont concaténés les uns à la suite des autres.
+
+### Bonus (facultatif)
+
+Trouver comment écrire la fonction en une seule ligne.
+
+### Bonus 2 (facultatif)
 
 Trouver la fonction du langage Python permettant de faire la même chose.
