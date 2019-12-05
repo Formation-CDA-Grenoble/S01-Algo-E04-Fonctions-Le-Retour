@@ -44,3 +44,18 @@ Trouver comment écrire la fonction en une seule ligne.
 ### Bonus 2 (facultatif)
 
 Trouver la fonction du langage Python permettant de faire la même chose.
+
+## Exo 4: le dénicheur de caractère
+
+Dans le fichier **exo4.py**, tu dois écrire une fonction qui trouve la place d'un caractère donnée dans une chaîne de caractères.
+
+**ENTREE:** une chaîne de caractères, et un caractère.
+**SORTIE:** un nombre entier, représentant la place de la première occurrence du caractère recherché, dans la chaîne de caractères. Si le caractère n'est pas présent dans la chaîne, None.
+
+### Bonus (facultatif)
+
+Trouver comment écrire la fonction en une seule ligne.
+
+### Bonus 2 (facultatif)
+
+Trouver la fonction du langage Python permettant de faire la même chose.
