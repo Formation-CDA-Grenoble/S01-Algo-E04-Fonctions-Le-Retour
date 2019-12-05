@@ -1,4 +1,4 @@
-# Ecrivons des fonctions
+# Ecrivons des fonctions (le retour)
  
 Voici (encore) une série d'exercices permettant de t'entraîner à l'écriture de fonctions! Pour chaque exercice, on te précise une **entrée** et la **sortie** attendue, à toi d'écrire la procédure nécessaire pour joindre les deux bouts!
 
