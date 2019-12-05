@@ -70,3 +70,18 @@ Dans le fichier **exo5.py**, tu dois écrire une fonction qui mélange les élé
 ### Bonus (facultatif)
 
 Trouver la fonction du langage Python permettant de faire la même chose.
+
+## Exo 6: le trieur
+
+Dans le fichier **exo6.py**, tu dois écrire une fonction qui trie les éléments d'une liste dans l'ordre croissant.
+
+**ENTREE:** une liste.
+**SORTIE:** une liste contenant les mêmes éléments que la liste en entrée, mais triés dans l'ordre croissant.
+
+### Bonus (facultatif)
+
+Rajouter un paramètre optionnel à la fonction permettant de préciser si l'on souhaite trier les éléments dans l'ordre croissant ou dans l'ordre décroissant.
+
+### Bonus 2 (facultatif)
+
+Trouver la fonction du langage Python permettant de faire la même chose.
