@@ -59,3 +59,14 @@ Trouver comment écrire la fonction en une seule ligne.
 ### Bonus 2 (facultatif)
 
 Trouver la fonction du langage Python permettant de faire la même chose.
+
+## Exo 5: le mélangeur
+
+Dans le fichier **exo5.py**, tu dois écrire une fonction qui mélange les éléments d'une liste dans un ordre aléatoire.
+
+**ENTREE:** une liste.
+**SORTIE:** une liste contenant les mêmes éléments que la liste en entrée, dans un ordre aléatoire.
+
+### Bonus (facultatif)
+
+Trouver la fonction du langage Python permettant de faire la même chose.
