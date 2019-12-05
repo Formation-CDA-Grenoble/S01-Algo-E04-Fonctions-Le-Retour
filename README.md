@@ -18,3 +18,14 @@ Trouver comment écrire la fonction en une seule ligne.
 ### Bonus 2 (facultatif)
 
 Trouver la fonction du langage Python permettant de faire la même chose.
+
+## Exo 2: le dénicheur amélioré
+
+Dans le fichier **exo1.py**, tu dois écrire une fonction qui trouve à quelle place d'une liste se trouve un élément.
+
+**ENTREE:** une liste, et un élément.
+**SORTIE:** si l'élément est dans la liste, un nombre qui représente sa place dans la liste (en partant de 0). Sinon, None.
+
+### Bonus (facultatif)
+
+Trouver la fonction du langage Python permettant de faire la même chose.
