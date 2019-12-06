@@ -1,20 +1,7 @@
 def order(list):
     # Début de ton code
-    
-    # Initialise la liste à renvoyer
-    result = []
-    # Tant que la liste d'origine n'est pas vide
-    for x in range(0, len(list)):
-        # Détermine la valeur minimum dans la liste d'origine
-        minimum = min(list)
-        # Détermine la place de la valeur minimum dans la liste d'origine
-        index = list.index(minimum)
-        # Ajoute la valeur minimum de la liste d'origine dans la liste à renvoyer
-        result.append(minimum)
-        # Supprimer la valeur minimum de la liste d'origine
-        del list[index]
-    # Renvoie la liste
-    return result
+    list.sort()
+    return list
     # Fin de ton code
 
 
