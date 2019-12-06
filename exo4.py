@@ -1,9 +1,7 @@
 def rankInsideStr(string, character):
     # Début de ton code
     index = string.find(str(character))
-    if index == -1:
-        return None
-    return index
+    return index if index != -1 else None
     # Fin de ton code
 
 
