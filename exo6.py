@@ -1,11 +1,10 @@
 def order(list):
     # Début de ton code
     
-    pass
     # Initialise la liste à renvoyer
     result = []
     # Tant que la liste d'origine n'est pas vide
-    while len(list) > 0:
+    for x in range(0, len(list)):
         # Détermine la valeur minimum dans la liste d'origine
         minimum = min(list)
         # Détermine la place de la valeur minimum dans la liste d'origine
