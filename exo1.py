@@ -1,6 +1,13 @@
 def isInside(list, element):
     # Début de ton code
-    pass
+    for item in list:
+        if item == element:
+            return True
+    # Je dois attendre la fin de la boucle pour avoir testé tous les éléments de la liste
+    # et donc pouvoir affirmer que l'élément que je cherchais ne s'y trouve pas
+    # Je dois donc retirer l'indentation pour signifier au Python qu'il faut attendre
+    # la fin de la boucle pour renvoyer False
+    return False
     # Fin de ton code
 
 
