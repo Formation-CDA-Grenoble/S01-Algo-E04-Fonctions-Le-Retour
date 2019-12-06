@@ -1,6 +1,19 @@
 def rankInside(list, element):
     # Début de ton code
-    pass
+    
+    # Initiliase le rang de l'objet à rechercher
+    rank = 0
+    # Pour chaque élément dans la liste
+    for item in list:
+        # Si l'élément est égal à l'élément recherché
+        if item == element:
+            # Renvoie le rang de l'objet à rechercher
+            return rank
+        # Incrémente le rang de l'object à rechercher
+        rank += 1
+    # Si l'objet demandé n'a pas été trouvé, renvoie None
+    return None
+
     # Fin de ton code
 
 
